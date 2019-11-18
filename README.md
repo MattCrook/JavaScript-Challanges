@@ -1,2 +1,2 @@
 # JavaScript-Challenges
-Collection of exercises using JavaScript
+Collection of practice exercises and challenges using JavaScript.
