@@ -168,3 +168,15 @@ if ((state !== "Hawaii") && (state !== "Alaska")) {
 }
 
 console.log(contiguous);
+
+/*
+also can be solved as:
+
+for (person of people) {
+    if (person.location.state !== "Hawaii" && person.location.state !== "Alaska") {
+        contiguous.push(person)
+    }
+}
+
+console.log(contiguous);
+*/
