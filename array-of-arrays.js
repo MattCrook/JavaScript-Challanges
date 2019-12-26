@@ -5,7 +5,6 @@ let arrays = [[1, 2, 3], [4, 5], [6]];
 // ES2019 solution
 arrays.flat();    // set depth parameter inside .flat() method
 
-
 // Recursion
 function flatten(arrays) {
   return arrays.reduce((acc, val) => {
