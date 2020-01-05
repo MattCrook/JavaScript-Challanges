@@ -41,3 +41,8 @@ Collection of practice exercises and challenges using JavaScript.
 * [promises Ex function example](https://github.com/MattCrook/JavaScript-Challanges/blob/master/promisesExFunction.js)
 * [promise_async await example](https://github.com/MattCrook/JavaScript-Challanges/blob/master/promise_asyncawait.js)
 * [promises practice](https://github.com/MattCrook/JavaScript-Challanges/blob/master/promises-practice.js)
+
+### DOM
+* [practice](https://github.com/MattCrook/JavaScript-Challanges/blob/master/DOM-practice.js)
+* [manipulation](https://github.com/MattCrook/JavaScript-Challanges/blob/master/DOM-manipulation.js)
+* [creating components](https://github.com/MattCrook/JavaScript-Challanges/blob/master/DOM-creatingComponents.js)
