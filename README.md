@@ -14,6 +14,9 @@ Collection of practice exercises and challenges using JavaScript.
 * [count characters in string](https://github.com/MattCrook/JavaScript-Challanges/blob/master/count-char-in-string.js)
 * [helper functions](https://github.com/MattCrook/JavaScript-Challanges/blob/master/helper-functions.js)
 * [journal entry](https://github.com/MattCrook/JavaScript-Challanges/blob/master/journal-entry.js)
+* [recursive function](https://github.com/MattCrook/JavaScript-Challanges/blob/master/recursive_function.js)
+* [function practice misc.](https://github.com/MattCrook/JavaScript-Challanges/blob/master/functionPractice.js)
+* [bind()](https://github.com/MattCrook/JavaScript-Challanges/blob/master/bind().js)
 
 
 ### Arrays
@@ -30,3 +33,11 @@ Collection of practice exercises and challenges using JavaScript.
 
 
 ### Classes
+* [classes practice](https://github.com/MattCrook/JavaScript-Challanges/blob/master/classesPractice.js)
+* [module example](https://github.com/MattCrook/JavaScript-Challanges/blob/master/module-example.js)
+
+
+### Promises/ async/ await
+* [promises Ex function example](https://github.com/MattCrook/JavaScript-Challanges/blob/master/promisesExFunction.js)
+* [promise_async await example](https://github.com/MattCrook/JavaScript-Challanges/blob/master/promise_asyncawait.js)
+* [promises practice](https://github.com/MattCrook/JavaScript-Challanges/blob/master/promises-practice.js)
